@@ -1,0 +1,33 @@
+
+Inorder Traversal:
+Michael who works in department Manager with a salary of $35.0
+Dwight who works in department Sales with a salary of $32.5
+Jim who works in department Sales with a salary of $32.5
+Angela who works in department Accounting with a salary of $31.5
+Oscar who works in department Accounting with a salary of $31.0
+Pam who works in department Secretary with a salary of $30.0
+
+Your office has 6 employees. 
+
+Adding Employee...Stanley who works in department Sales with a salary of $32.0 was added.
+
+Inorder Traversal:
+Michael who works in department Manager with a salary of $35.0
+Dwight who works in department Sales with a salary of $32.5
+Jim who works in department Sales with a salary of $32.5
+Stanley who works in department Sales with a salary of $32.0
+Angela who works in department Accounting with a salary of $31.5
+Oscar who works in department Accounting with a salary of $31.0
+Pam who works in department Secretary with a salary of $30.0
+
+Your office has 7 employees. 
+
+Removing Employee...Oscar who works in department Accounting with a salary of $31.0 was removed.
+
+Inorder Traversal:
+Michael who works in department Manager with a salary of $35.0
+Dwight who works in department Sales with a salary of $32.5
+Jim who works in department Sales with a salary of $32.5
+Stanley who works in department Sales with a salary of $32.0
+Angela who works in department Accounting with a salary of $31.5
+Pam who works in department Secretary with a salary of $30.0

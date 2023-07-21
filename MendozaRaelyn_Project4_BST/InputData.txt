@@ -1,0 +1,7 @@
+10
+Jim,Sales,32.50
+Dwight,Sales,32.50
+Pam,Secretary,30.00
+Michael,Manager,35.00
+Oscar,Accounting,31.00
+Angela,Accounting,31.50
